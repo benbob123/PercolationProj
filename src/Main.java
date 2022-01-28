@@ -22,7 +22,7 @@ public class Main {
 
         System.out.println("percolates:" +p.percolates());
         //if (p.isOpen(4,3)){
-         //   System.out.println("it works!");
+         //   System.out.println("itworks!");
        // }
         p.print();
     }
